@@ -14,4 +14,4 @@ I was looking for an interesting dataset for a personal Data Science project, an
 
 Downloading media files take less than 2 hours in total - 2 minutes for photos of Speaker and Talk, 10 minutes for Audio, 1.5 hours for videos. <br> TED_Talk.xlsx and TED_Talk.csv contain Metadata and Transcript. Folder Names are intuitive.
 
-**The code shows way to scrape at scale**
+**The code shows way to scrape at scale.** 
