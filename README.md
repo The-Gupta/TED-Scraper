@@ -12,6 +12,6 @@ I was looking for an interesting dataset for a personal Data Science project, an
 
 *Scraped on 24-JUN-20. One can scrape entire TED.com using the code to get the latest dataset in 5 minutes.
 
-Downloading media files take less than 2 hours in total - 2 minutes for photos of Speaker and Talk, 10 minutes for Audio, 1.5 hours for videos. <br> TED_Talk.xlsx and TED_Talk.csv contain Metadata and Transcript. Folder Names are intuitive.
+Downloading media files take less than 2 hours in total - 2 minutes for photos of Speaker and Talk, 10 minutes for Audio, 1.5 hours for videos. <br> TED_Talk.xlsx and TED_Talk.csv contain Metadata and Transcript. Folder Names are intuitive. All media files are named by _talk__id_, except in PHOTO__SPEAKER files are named by _speaker__id_ of the primary Speaker.
 
 **The code shows way to scrape at scale.** 
